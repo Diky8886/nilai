@@ -22,5 +22,7 @@ int main() {
         cout<<"nilai anda buruk yaitu D ";
     }
 
+    system("pause")
+
     return 0;
 }
